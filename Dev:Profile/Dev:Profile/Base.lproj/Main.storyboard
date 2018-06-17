@@ -115,7 +115,7 @@
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Iuf-Hn-ygf">
                                 <rect key="frame" x="221.5" y="797" width="325" height="60"/>
-                                <color key="backgroundColor" red="0.88860247459999997" green="0.34522895729999997" blue="0.29916227350000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="backgroundColor" red="0.81771494287411162" green="0.25451394314962833" blue="0.087950710353357303" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="60" id="2cc-oN-7si"/>
                                     <constraint firstAttribute="width" constant="325" id="A94-8r-FHg"/>
@@ -166,10 +166,10 @@
                             <mask key="constraints">
                                 <include reference="DVf-oO-g0d"/>
                                 <exclude reference="ZZE-qa-MAa"/>
-                                <exclude reference="XXM-HB-7Qt"/>
                                 <include reference="NQc-oz-kFd"/>
                                 <exclude reference="hua-DB-I3v"/>
                                 <exclude reference="qyO-Fl-gzv"/>
+                                <exclude reference="XXM-HB-7Qt"/>
                             </mask>
                         </variation>
                     </view>
